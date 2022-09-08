@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $SHELL > $HOME/current-shell.log
-cat $HOME/current-shell.log
+cat $HOME
